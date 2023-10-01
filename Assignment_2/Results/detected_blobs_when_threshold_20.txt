@@ -1,0 +1,20 @@
+Sigma: 1
+Number of Blobs: 1486
+Sigma: 5
+Number of Blobs: 475
+Sigma: 10
+Number of Blobs: 416
+Sigma: 15
+Number of Blobs: 575
+Sigma: 20
+Number of Blobs: 607
+Sigma: 25
+Number of Blobs: 648
+Sigma: 3
+Number of Blobs: 521
+Sigma: 7
+Number of Blobs: 424
+Sigma: 30
+Number of Blobs: 890
+Sigma: 40
+Number of Blobs: 728
